@@ -1,0 +1,3 @@
+# Installation
+Move crispyhours.sh to your $HOME directory, then run ~/crispyhours.sh in your terminal. The directories with your logs will be created, in your $HOME directory, upon initial launch.
+You will need to open a new terminal window if you are launching Crispy Doom manually. Feel free to edit the code to work with any port.
